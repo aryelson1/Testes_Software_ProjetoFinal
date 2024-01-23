@@ -44,6 +44,7 @@ O projeto aborda os conceitos fundamentais de testes de software, incluindo téc
 O projeto consiste em duas partes:
 
 **Parte 1:** Desenvolvimento de um sistema por uma equipe.
+<br>
 **Parte 2:** Teste do sistema da outra equipe, após sorteio.
 
 ## Etapas do Projeto
